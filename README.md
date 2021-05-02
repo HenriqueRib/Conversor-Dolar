@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-Projeto realizado no bootcamp [Desenvolvedor  Mobile Apps] (https://www.igti.com.br/custom/desenvolvedor-mobile-apps/)
+Projeto realizado no bootcamp [Desenvolvedor  Mobile Apps](https://www.igti.com.br/custom/desenvolvedor-mobile-apps/)
 
 Campo para adicionar quantidades em Reais 
 Campo para adicionar a cotação do Dolar
